@@ -65,9 +65,6 @@ Cung cấp hai phương thức điều khiển:
 | T3 | Kiểm tra Singleton | Hai biến cùng tham chiếu một đối tượng |
 | T4 | Gọi GoToWork() | Đèn tắt, quạt tắt, cửa khóa |
 | T5 | Gọi GoToSleep() | Quạt tắt, cửa khóa, đèn bật, hiển thị mức sáng |
-| T6 | Type = null | ArgumentException |
-| T7 | Type rỗng hoặc khoảng trắng | ArgumentException |
-| T8 | Name rỗng hoặc khoảng trắng | ArgumentException |
 
 ## 4. Trả lời câu hỏi
 
